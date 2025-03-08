@@ -1,4 +1,4 @@
-# Sierra-Chart---Google-Sheets-Trading-Journal
+# Sierra-Chart-Google-Sheets-Trading
 Hi everyone,  I just wanted to share with you a Trading Journal for Sierra Chart, since the ones I found online (excel and website) never work, at least with me, I decided to make one. If you want to improve it, I'll be happy to see what you did!
 
 The Python script is to takes all the necessary Values into a CSV file at "C:\SierraBacktest\SavedTradeActivity\Journal.csv", you'll need to change this path to a path of your choice with a blank CSV File.
